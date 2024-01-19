@@ -1,7 +1,9 @@
 Application of Concepts Taught and Deployment
 - I successfully applied the concepts taught by Sir Job through a thorough review of the materials provided. I carefully went through the lectures, tutorials, and supplementary resources to grasp the key concepts. Applying these concepts, I then proceeded to deploy the project as instructed. This involved implementing the learned techniques, tools, and methodologies in a practical setting, ensuring a comprehensive understanding of the material.
+
 Design
 - For the design aspect, I sought inspiration by examining various personal websites. Analyzing the layouts, color schemes, and overall aesthetics of these websites provided valuable insights into effective design principles. I meticulously incorporated these elements into my project to create a visually appealing and user-friendly interface. This process allowed me to not only understand design concepts but also to adapt and implement them in a meaningful way.
+
 Creativity and Content
 - To enhance the creative aspects of the project, I embraced exploration and personal initiative. I actively sought out innovative features and functionalities by experimenting with different design elements, interaction patterns, and content presentation. This hands-on exploration allowed me to inject creativity into the project, going beyond the basics taught in the materials. By incorporating my own ideas and unique touches, I aimed to make the project stand out and showcase a personalized creative touch.
 
