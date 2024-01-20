@@ -17,9 +17,6 @@ html {
   scroll-behavior: smooth;
 }
 
-p {
-  color:
-}
 
 /* TRANSITION */
 
@@ -255,7 +252,7 @@ section {
 .section__text__p2 {
   font-size: 1rem;
   margin-bottom: 1rem;
-  margin-top: -1.5rem;
+  margin-top: -1.8rem;
   text-align: center;
 
 }
@@ -402,11 +399,19 @@ section {
   width: 400px;
   margin: auto 0;
 }
-.section__pic-container .about-pic{
+
+.section__pic-container .about-pic {
   height: 300px;
   width: 300px;
   margin: auto 0;
   margin-top: 5rem;
+  overflow: hidden; 
+  transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease; 
+}
+
+.section__pic-container:hover .about-pic {
+  transform: scale(1.1);
+  content: url("./assets/about-pic2.png");
 }
 
 .text-container {
@@ -424,7 +429,7 @@ section {
   transform: translateY(-5px); 
 }
 
-/* EXPERIENCE SECTION */
+/* SKILLS SECTION */
 
 #experience {
   position: relative;
